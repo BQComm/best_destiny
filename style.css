@@ -247,10 +247,10 @@ h6 {
 
 img.menu-logo {    
     width: 100px;
-    height: 130px;
-    position: absolute;
+    height: 110px;
+    position: fixed;
     left: 0;
-    top: 10px;
+    padding-bottom: 5px;
 }
 
 .main-menu.sm-clean {
@@ -1381,7 +1381,7 @@ footer a {
     }
 
     img.menu-logo {
-        width: auto;
+        width: 85px;
         height: 90px;
         left: 5%;
     }
